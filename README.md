@@ -23,7 +23,6 @@
 
 - 📫 How to reach me **Harish.1994.19@gmail.com**
 
-- ⚡ Fun fact **I think i am techy.**
 
 <hr />
 
