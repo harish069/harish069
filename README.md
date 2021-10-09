@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harish069](https://github.com/sachanarpit)
 
-- 💬 Ask me about ** Javascript , Data structure , Algorithm , Node Js , Express and MangoDB.**
+- 💬 Ask me about ** Javascript , Data structure , Algorithm , Node Js , Express , React and MangoDB.**
 
 - 📫 How to reach me **Harish.1994.19@gmail.com**
 
