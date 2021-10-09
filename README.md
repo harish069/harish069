@@ -29,11 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://codepen.io/sachanarpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sachanarpit" height="30" width="40" /></a> -->
-<!-- <a href="https://twitter.com/sachanarpit1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachanarpit1" height="30" width="40" /></a> -->
+
 <a href="https://www.linkedin.com/in/harish-andela-660446216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWOFBuMLtSVumJqPJsTxeBw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachanarpit" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16470300/arpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16470300" height="30" width="40" /></a>
-<a href="https://instagram.com/arpitsachanofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpitsachanofficial" height="30" width="40" /></a>
+
 </p>
 <hr />
 <h3 align="left">Languages and Tools:</h3>
